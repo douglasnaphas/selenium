@@ -50,7 +50,7 @@ The new documentation is a project started to rewrite Selenium's
 documentation from scratch. This is an ongoing effort (not targetted
 at any specific release) to provide an updated handbook on how to use
 Selenium effectively. We hope to bring over the pieces of the old
-documentation that makes sense.
+documentation that make sense.
 
 Contributions toward the new docs follow the same process described in
 the next section about code contributions. You should spend some time
@@ -230,7 +230,7 @@ your branch history.
 
 ## Stages of an Issue or PR
 
-From your create your issue or pull request, through code review and
+From the time you create your issue or pull request, through code review and
 towards integration, it will be assigned different Github labels. The
 labels serve for the committers to more easily keep track of work
 that's pending or awaiting action.

@@ -125,7 +125,7 @@ public interface WebElement extends SearchContext, TakesScreenshot {
   String getAttribute(String name);
 
   /**
-   * Determine whether or not this element is selected or not. This operation only applies to input
+   * Determine whether or not this element is selected. This operation only applies to input
    * elements such as checkboxes, options in a select and radio buttons.
    *
    * @return True if the element is currently selected or checked, false otherwise.
